@@ -1,0 +1,15 @@
+C:\Balta.io\Calculator2\obj\Debug\net6.0\Calculator2.csproj.AssemblyReference.cache
+C:\Balta.io\Calculator2\obj\Debug\net6.0\Calculator2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Balta.io\Calculator2\obj\Debug\net6.0\Calculator2.AssemblyInfoInputs.cache
+C:\Balta.io\Calculator2\obj\Debug\net6.0\Calculator2.AssemblyInfo.cs
+C:\Balta.io\Calculator2\obj\Debug\net6.0\Calculator2.csproj.CoreCompileInputs.cache
+C:\Balta.io\Calculator2\bin\Debug\net6.0\Calculator2.exe
+C:\Balta.io\Calculator2\bin\Debug\net6.0\Calculator2.deps.json
+C:\Balta.io\Calculator2\bin\Debug\net6.0\Calculator2.runtimeconfig.json
+C:\Balta.io\Calculator2\bin\Debug\net6.0\Calculator2.dll
+C:\Balta.io\Calculator2\bin\Debug\net6.0\ref\Calculator2.dll
+C:\Balta.io\Calculator2\bin\Debug\net6.0\Calculator2.pdb
+C:\Balta.io\Calculator2\obj\Debug\net6.0\Calculator2.dll
+C:\Balta.io\Calculator2\obj\Debug\net6.0\ref\Calculator2.dll
+C:\Balta.io\Calculator2\obj\Debug\net6.0\Calculator2.pdb
+C:\Balta.io\Calculator2\obj\Debug\net6.0\Calculator2.genruntimeconfig.cache
